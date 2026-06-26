@@ -70,8 +70,6 @@ python main.py
 
 ---
 
-## 💬 How to Explain in Interview
-
 > "I built QuickBite, a food ordering system inspired by Swiggy.
 > It has customer login, menu browsing, cart management, coupon system,
 > GST billing, and an admin panel — all using Python with JSON file storage.
