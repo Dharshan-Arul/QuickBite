@@ -1,0 +1,52 @@
+{
+    "1": {
+        "name": "Chicken Biryani",
+        "price": 180,
+        "category": "Rice"
+    },
+    "2": {
+        "name": "Veg Fried Rice",
+        "price": 120,
+        "category": "Rice"
+    },
+    "3": {
+        "name": "Paneer Butter Masala",
+        "price": 150,
+        "category": "Curry"
+    },
+    "4": {
+        "name": "Dal Tadka",
+        "price": 100,
+        "category": "Curry"
+    },
+    "5": {
+        "name": "Garlic Bread",
+        "price": 60,
+        "category": "Snack"
+    },
+    "6": {
+        "name": "French Fries",
+        "price": 80,
+        "category": "Snack"
+    },
+    "7": {
+        "name": "Pepsi",
+        "price": 40,
+        "category": "Drink"
+    },
+    "8": {
+        "name": "Mango Lassi",
+        "price": 60,
+        "category": "Drink"
+    },
+    "9": {
+        "name": "Chocolate Cake",
+        "price": 90,
+        "category": "Dessert"
+    },
+    "10": {
+        "name": "Gulab Jamun",
+        "price": 50,
+        "category": "Dessert"
+    }
+}

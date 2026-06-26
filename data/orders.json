@@ -1,0 +1,21 @@
+[
+    {
+        "order_id": "QB1001",
+        "customer_name": "Dharshan",
+        "customer_phone": "99999999",
+        "items": [
+            {
+                "item_id": "9",
+                "name": "Chocolate Cake",
+                "price": 90,
+                "qty": 1
+            }
+        ],
+        "subtotal": 90,
+        "discount": 0,
+        "coupon": "",
+        "gst": 4.5,
+        "total": 94.5,
+        "date_time": "03-06-2026 15:24"
+    }
+]
